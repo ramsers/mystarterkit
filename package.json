@@ -11,7 +11,7 @@
   "author": "Raheim Bailey",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.29.1",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^7.0.0",
     "gulp-clean-css": "^4.2.0",
